@@ -1,6 +1,6 @@
 ### Run docker compose
 ```
-docker-compose up -d
+docker-compose up --build -d
 ```
 
 ### Open App
